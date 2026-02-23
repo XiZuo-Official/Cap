@@ -1,0 +1,112 @@
+[
+  {
+    "table": "bridge_loan_org_attribution",
+    "rows": 7860,
+    "path": "/Users/xizuo/Cap/output/3nf/bridge_loan_org_attribution.csv"
+  },
+  {
+    "table": "bridge_vp_employee_map",
+    "rows": 698,
+    "path": "/Users/xizuo/Cap/output/3nf/bridge_vp_employee_map.csv"
+  },
+  {
+    "table": "dim_adj_type",
+    "rows": 81,
+    "path": "/Users/xizuo/Cap/output/3nf/dim_adj_type.csv"
+  },
+  {
+    "table": "dim_adj_type_group",
+    "rows": 11,
+    "path": "/Users/xizuo/Cap/output/3nf/dim_adj_type_group.csv"
+  },
+  {
+    "table": "dim_allocation_bucket",
+    "rows": 10,
+    "path": "/Users/xizuo/Cap/output/3nf/dim_allocation_bucket.csv"
+  },
+  {
+    "table": "dim_company",
+    "rows": 4,
+    "path": "/Users/xizuo/Cap/output/3nf/dim_company.csv"
+  },
+  {
+    "table": "dim_compensafe_bucket",
+    "rows": 2,
+    "path": "/Users/xizuo/Cap/output/3nf/dim_compensafe_bucket.csv"
+  },
+  {
+    "table": "dim_department",
+    "rows": 24,
+    "path": "/Users/xizuo/Cap/output/3nf/dim_department.csv"
+  },
+  {
+    "table": "dim_employee",
+    "rows": 1347,
+    "path": "/Users/xizuo/Cap/output/3nf/dim_employee.csv"
+  },
+  {
+    "table": "dim_inclusion_reason",
+    "rows": 3,
+    "path": "/Users/xizuo/Cap/output/3nf/dim_inclusion_reason.csv"
+  },
+  {
+    "table": "dim_insert_user",
+    "rows": 1,
+    "path": "/Users/xizuo/Cap/output/3nf/dim_insert_user.csv"
+  },
+  {
+    "table": "dim_loan",
+    "rows": 2004,
+    "path": "/Users/xizuo/Cap/output/3nf/dim_loan.csv"
+  },
+  {
+    "table": "dim_login_bundle",
+    "rows": 504,
+    "path": "/Users/xizuo/Cap/output/3nf/dim_login_bundle.csv"
+  },
+  {
+    "table": "dim_product",
+    "rows": 183,
+    "path": "/Users/xizuo/Cap/output/3nf/dim_product.csv"
+  },
+  {
+    "table": "dim_reporting_period",
+    "rows": 1,
+    "path": "/Users/xizuo/Cap/output/3nf/dim_reporting_period.csv"
+  },
+  {
+    "table": "dim_state",
+    "rows": 51,
+    "path": "/Users/xizuo/Cap/output/3nf/dim_state.csv"
+  },
+  {
+    "table": "dim_vp",
+    "rows": 852,
+    "path": "/Users/xizuo/Cap/output/3nf/dim_vp.csv"
+  },
+  {
+    "table": "etl_data_quality_issue",
+    "rows": 5056,
+    "path": "/Users/xizuo/Cap/output/3nf/etl_data_quality_issue.csv"
+  },
+  {
+    "table": "fact_compensafe_event",
+    "rows": 10999,
+    "path": "/Users/xizuo/Cap/output/3nf/fact_compensafe_event.csv"
+  },
+  {
+    "table": "fact_loan_financial_components",
+    "rows": 2004,
+    "path": "/Users/xizuo/Cap/output/3nf/fact_loan_financial_components.csv"
+  },
+  {
+    "table": "fact_loan_snapshot",
+    "rows": 2004,
+    "path": "/Users/xizuo/Cap/output/3nf/fact_loan_snapshot.csv"
+  },
+  {
+    "table": "fact_workforce_period_snapshot",
+    "rows": 3930,
+    "path": "/Users/xizuo/Cap/output/3nf/fact_workforce_period_snapshot.csv"
+  }
+]
