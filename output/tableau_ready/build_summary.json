@@ -1,0 +1,15 @@
+{
+  "source_file": "/Users/xizuo/Cap/Duke Data V4 (1).xlsx",
+  "generated_at": "2026-03-01 15:33:16",
+  "raw_rows_read": 10999,
+  "vp_month_rows": 852,
+  "loan_detail_rows": 2243,
+  "exception_rows": 851,
+  "output_files": [
+    "/Users/xizuo/Cap/output/tableau_ready/vp_kpi_monthly.csv",
+    "/Users/xizuo/Cap/output/tableau_ready/vp_loan_detail.csv",
+    "/Users/xizuo/Cap/output/tableau_ready/vp_exception_log.csv",
+    "/Users/xizuo/Cap/output/tableau_ready/vp_dashboard_data.xlsx"
+  ],
+  "run_fingerprint": "30df7b669b90abaf18d2c7a535d6025d8025c78f"
+}
