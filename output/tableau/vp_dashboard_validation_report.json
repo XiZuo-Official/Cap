@@ -1,0 +1,36 @@
+{
+  "data_dir": "/Users/xizuo/Cap/output/3nf",
+  "summary": {
+    "loan_count_distinct": 2004,
+    "event_row_count": 10999,
+    "loan_amount_total": 848699871.86,
+    "loan_amount_nonnull_rows": 2003,
+    "dq_issue_total": 5056,
+    "dq_issue_types": {
+      "conflicting_deduped_fact_value": 5056
+    }
+  },
+  "checks": [
+    {
+      "name": "Loan Count baseline",
+      "actual": 2004,
+      "expected": 2004,
+      "passed": true,
+      "note": "COUNTD(dim_loan.loan_number) baseline"
+    },
+    {
+      "name": "Event row baseline",
+      "actual": 10999,
+      "expected": 10999,
+      "passed": true,
+      "note": "fact_compensafe_event row count baseline"
+    },
+    {
+      "name": "Loan snapshot grain check",
+      "actual": 2004,
+      "expected": 2004,
+      "passed": true,
+      "note": "fact_loan_snapshot should be one row per loan in this sample"
+    }
+  ]
+}
